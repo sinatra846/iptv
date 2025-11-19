@@ -1,0 +1,1929 @@
+#EXTM3U
+
+#EXTM3U
+##########################################
+### 🟩 LIVE TV (SALURAN LANGSUNG)
+##########################################
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",ANTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",BERITASATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",CNB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",GTV R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",GTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",INEWS R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ee7df15ff584967a3eb7b885bafc71e":"9a297bf2200eee7dee21b9ace9f57c77"}
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",INEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",JAKTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",JTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",MD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",MNC TV R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3004565365a42d08e3bde39a516d64e":"dbfdc0967cfbbed01dba730c99d9c14a"}
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",MNC TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"052861ebedab473089d0e7480d0c5b63":"4d51aa0304af98c449fdec1548a199f9"}
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",RCTI +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d386001215594043a8995db796ad9e9c":"3404792cb4c804902acdc6ca65c1a298"}
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",RCTI V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",SINDO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | NASIONAL | ID",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+
+##########################################
+### 🟨 SPORTS
+##########################################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3ae6a430c1b8420ea280e317143d8d3a":"142473ee925db0db0083c74a178c8298"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",beIN Sports 1 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d756d566ca94e6499518ffb1474d5d0":"dbe4ad6803e74739b8f954d23cc58e7b"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",beIN Sports 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"344d320ca45641a88cf002db351ed9a4":"246cc6ee7ab235cb824ed3b904b7040b"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",beIN Sports 3 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aef1823177ad40199de440504d992ad5":"b95c919408eec7663214a9a67af831ba"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",beIN Sports 4 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c48c8e48dba24420b5dcef9f5b847b12":"daad0aeb165b9a26b706f2a261b8fafe"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",beIN Sports 5 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ID",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://103.153.246.42:4022/udp/239.2.2.28:3000
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ID",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4035323a7fe64767ab8f3345ed9b93be":"67377b8d429603f8bf30c161bda269e5"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",SOCCER CHANNEL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"39c4dc6704cf4ceea2fd4863b88d8a7d":"4e9d7954c2ff46759289da4fc9f018ea"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",SPORTSTAR 1 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ID",SPORTSTAR 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b576e5f5f1bc4cbaa866e5b0face5a30":"3377be6c3b5f688ebed687312c9b9d95"}
+#EXTINF:-1 group-title="Live TV | Sports | ID",SPORTSTAR 4 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ID",SPOTV 1 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ID",SPOTV 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ID",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+##########################################
+### 🟨 SPORTS | beIN SPORTS
+##########################################
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142743.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 2 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142744.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142738.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142739.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142740.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142741.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142742.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142733.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | beIN SPORTS",beIN SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/142734.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MOTOGP",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://maxooo.org:2052/live/31418878701788/72199902057141/227689.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MOTOGP",SPORT TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/GbrF1P/459422/167745.ts
+
+
+##########################################
+### 🟨 SPORTS | MOTOGP
+##########################################
+#EXTINF:-1 group-title="Live TV | Sports | MOTOGP",SPOTV 1 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Sports | MOTOGP",SPOTV 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+##########################################
+### 🟨 SPORTS | PREMIER LEAGUE
+##########################################
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://mag.redmytv.com
+#EXTINF:-1 group-title="Live TV | Sports | PREMIER LEAGUE",HUB PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3":"d2f92f6b7edc9a1a05d393ba0c20ef9e"}
+#EXTINF:-1 group-title="Live TV | Sports | PREMIER LEAGUE",PEACOCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3":"d2f92f6b7edc9a1a05d393ba0c20ef9e"}
+#EXTINF:-1 group-title="Live TV | Sports | PREMIER LEAGUE",PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | BG",MAX SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33341.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | BG",MAX SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33339.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | HR",SPORT KLUB 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/239745.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | DE",SKY SPORT BUNDESLIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/154118.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | DE",SKY Sport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/431023.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | DK",3 SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33215.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvappapk@latinapro.net:25461
+#EXTINF:-1 group-title="Live TV | Sports | ES",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://tvappapk@latinapro.net:25461/live/lazaroperez/perez3/21103.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ES",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/300678.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ES",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/111548.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ES",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/335893.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | ES",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/335894.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://nocable.cc:8080
+#EXTINF:-1 group-title="Live TV | Sports | FR",CANAL+ SPORT 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080//live/6VE4Hx/313275/160306.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | IT",CANAL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/93054.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | IT",SKY SPORT CALCIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33248.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | IT",SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33241.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO BADMINTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/848711
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO BADMINTON 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/848710
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/709256
+
+
+##########################################
+### 🟨 SPORTS | MALAYSIA
+##########################################
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/709262
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/709260
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO PREMIER LEAGUE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/945703
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO PREMIER LEAGUE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/945704
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | MY",ASTRO PREMIER LEAGUE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://b1g.uk/200/230/945705
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1503
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1506
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1509
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1512
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",DAZN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1515
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/GbrF1P/459422/167742.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/GbrF1P/459422/167743.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/GbrF1P/459422/167744.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | PT",SPORT TV 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/GbrF1P/459422/167745.ts
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ZA",SuperSport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://eag-4k.com:80/live/00c3f4c4ddcb/wqie7l678k/138595.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Sports | ZA",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://eag-4k.com:80/live/00c3f4c4ddcb/wqie7l678k/138586.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | BR",TNT SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://lunar.pm:8080/Cynthiab/Travel66/100775
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | BR",TNT SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://lunar.pm:8080/Cynthiab/Travel66/100776
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | BR",TNT SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://lunar.pm:8080/Cynthiab/Travel66/100778
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33423.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33424.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33425.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33426.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",PRIMA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33429.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",PRIMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33430.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33431.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RO",PRIMA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33432.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RS",ARENASPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/57097.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RS",ARENASPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/312503.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RS",ARENASPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/57093.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RS",ARENASPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/312504.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | RS",ARENASPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/57099.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",ARENASPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",SKY SPORT PREMIER LEAGUE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/132041.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080//live/sjarvis32@yahoo.com/s32@jarvis/53704.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",TNT SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",TNT SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",TNT SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | UK",TNT SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | US",FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080//live/sjarvis32@yahoo.com/s32@jarvis/46792.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | NL",ZIGGO SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/33476.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | NL",ZIGGO SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/104489.ts
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | Sports | NL",ZIGGO SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/104487.ts
+
+
+##########################################
+### 🟩 LIVE TV FILM
+##########################################
+#EXTINF:-1 group-title="Live TV | FILM | ID",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",CINEEDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",K-PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | FILM | ID",MOVIETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",MY CINEMA ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",MY CINEMA EUROPE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",ROCK ACTION V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",ORIGINALS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | FILM | ID",SONY PIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://15.235.181.35/live.ts?channelId=189&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",SUPERRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",UNIQUES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",VISION PRIME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | FILM | ID",Z BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+
+
+##########################################
+### 🟧 KIDS / CARTOON
+##########################################
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",BUDDY STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV |  Kids | ID",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV |  Kids | ID",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://forevertv.me:2095/live/Achhjftdjikg/Pxg5HNXWYVc1Yt/20602.ts
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",DREAM CHANNEL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",KIDS TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",KIDS TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",MY KIDZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=My_Kidz_HD
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV |  Kids | ID",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"780f283e8dd84dc195d93899ea9fcabe":"59103ac45e9c5e411651e3fa26a2e6d9"}
+#EXTINF:-1 group-title="Live TV |  Kids | ID",ZOOMOO V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID", TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",AL QURAN AL KAREEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+
+
+##########################################
+### 🟫 Live TV / FAITH
+##########################################
+#EXTINF:-1 group-title="Live TV | Islamic | ID",ASHIL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",JOM NGAJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",MADANI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",SURAU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",TAWAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://tvstreamcast.com/tawaftv.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",tv10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",TVMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://e.siar.us/live/tvmu.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | Islamic | ID",WESAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+##########################################
+### 🟩 LIVE TV DOCUMENTARY
+##########################################
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
+
+
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",GLOBAL TREKKER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
+
+
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://38.143.48.212:9981/stream/channelid/1422297878?profile=pass
+
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1 group-title="Live TV | DOCUMENTARY | ID",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://nocable.cc:8080/live/michellebrath@hotmail.com/dmNeFwzj6v/11664.ts
+
+
+##########################################
+### 🟩 LIVE TV VISON+
+##########################################
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ABC V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ALJAZEERA V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ANIMAX  V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ANTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",BANDUNG TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",BBC NEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",beIN SPORTS 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",BALI TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",BTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CBEEBIES V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CCM V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CELEBRITIES TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CELESTIAL MOVIES V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CGTN DOCUMENTARY V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CGTN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CNA V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CNBC V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",CRIME INVESTIGATION  V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",DAAI TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",DMI TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",EURONEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",EWTN  V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",FIGHT SPORT V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",FOOD TRAVEL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",FOX NEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",FRANCE 24 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",GALAXY PREMIUM V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",GTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",HANACARAKA TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",HISTORY V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",HITS MOVIES V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",IDX V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",INEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",JAKTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",JTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",KIDS TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",KIX V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",KOREA V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",LIFE V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",LIFETIME V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",LOVE NATURE V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",MAKKAH LIVE V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",MDTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",MNC TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",MUSIC TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",MUSLIM TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",NHK WORD V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ONE V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a"}
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",RCTI V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",REFORMED 21 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",ROCK ACTION V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SEA GO V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SOCCER CHANNEL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SPORTSTARS 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SPORTSTARS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SPOTV 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",SPOTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",STAR CHN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",STUDIO UNIVERSAL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",THRILL V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a"}
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TRANS 7 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TRANS TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TV MACCAU V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TV5 MONDE V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TVMU V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TVN CHN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TVN MOVIES V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TVN V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",TVRI V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",VISION PRIME V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",VISION PRIME V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+
+
+#EXTINF:-1 group-title="Live TV | VISION+ | ID",Z BIOSKOP V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+
+
+
+##########################################
+### 🟦 MOVIES / VOD (VIDEO ON DEMAND)
+##########################################
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-a-minecraft-movie-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",A Minecraft Movie (2025) Sub Indo di Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/I1UkJyscFDMjNwNhLl8gMSdVe353TFo2JzMTIBxoCW1yQXAqdUkW/32/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/06/film-becoming-led-zeppelin-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Becoming Led Zeppelin (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz
+https://cloud.hownetwork.xyz/xxx/IB0qISgQGSZvPRIobkozKDIdJScrVEVxcGRaOyZSMjQdIBYrcR8VeCNkFQ/33/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/02/film-captain-america-brave-new-world-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Captain America: Brave New World (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-coyotes-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Coyotes (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/IRcwITEcBGxwYUV5bmcTGgY0FhYaQEEgIGUSeXU/25/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-doraemon-movie-nobitas-art-world-tales-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Doraemon the Movie: Nobita's Art World Tales (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/Jhc7LyAUGC9vPBg6KlV7Ni0aIDokClogMCVaOyxCOjxvDCgiIApac3JjQmEUdRQcDicREXdAQnhxZxUt/34/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-f1-the-movie-2025-lk21-d21.jpg" group-title="NONTON FILM | ID",F1: The Movie (2025) Sub Indo Lk21
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz
+https://cloud.hownetwork.xyz/xxx/JElkOi0cWiwtJx4pbgJmandVHgsHPTseGg5PfiYGYDx7QA/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Final Destination: Bloodlines (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/JBEnLylUEyQxJR4iIkQ_NyxVKyIqFhMtKz8SP24CZmp3VT4rJx0bHhoOQ34nBG87IUE/33/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-grand-prix-europe-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Grand Prix of Europe (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/JQooICFUBzMrKVopNkI5KCdVe353TFoWBxMzABxoCWwhGnh9dU1B/25/480.m3u8
+
+
+#EXTM3U
+##########################################
+### 🟦 MOVIES / VOD (VIDEO ON DEMAND)
+##########################################
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-heads-of-state-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Heads of State (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/Kh0oKjZUGCdvIgMtN1V7anJKfGMyHBUlLg4vEyZTYmx3HSt2/33/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-in-the-lost-lands-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",In the Lost Lands (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/KxZkOi0cWi0tIgNhL1E4PDFVe353TFojLiQFLTpvDgdySXp3dEpPJQ/32/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Jurassic World: Rebirth (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Mission: Impossible - The Final Reckoning (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEUdRQcDicREScdFHkgMBF6/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-nobody-2-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Nobody 2 (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/LBcrISEAWnNvY0d-dh0UNDcqKDcaISh0cWMWKnBRYw/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-sketch-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Sketch (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/MRMsOiYRWnNyY0JhFHUUHA4nEREmTEZwcjJPfg/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_SX300.jpg" group-title="NONTON FILM | ID",Superman (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJk4jIWZAKXpR/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-the-accountant-2-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",The Accountant 2 (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NhAsYyQaFC43PwMtLUR7am9KeXxwVAAkIDUbExtvZ2twHCx6fU4/33/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-bad-guys-2-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",The Bad Guys 2 (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/IBktYyIMDjJvY1p-cwJjdRU9CwoJJi8ecGcRKSEJYm4/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",The Fantastic Four: First Steps (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-toxic-avenger-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",The Toxic Avenger (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NhcxJyZUFjcnPxApMR1kaHBNZBkAOzMNHQkoeyVWZ24mTCo/34/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-twits-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",The Twits (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/Ng8gOjZURXFwZFobBnISFB0gFn4hSBNwJzIR/26/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://pahe.ink/wp-content/uploads/2025/06/Gt6UDpzXcAAktV1_75-165x253.jpg" group-title="NONTON FILM | ID",Thunderbolts* (2025) Sub Indo LK21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NhA8ICEcBSMtPQM_bgJmandVCyIwKxY4HQkofSAJMG17TH8/33/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-under-ninja-2025-lk21.jpg.webp" group-title="NONTON FILM | ID",Under Ninja (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NxYtKzdUGSgsOxZhcQBkbW8vDAwBNSgZHWMSKHcFZmp2/26/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-until-dawn-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Until Dawn (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NxY9JylUEyA1P1p-cwJjdTUdKyopJi8eIzAUeXIANzo/32/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloud.hownetwork.xyz
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-warfare-2025-lk21-d21.jpg.webp" group-title="NONTON FILM | ID",Warfare (2025) Sub Indo Lk21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
+#EXTVLCOPT:network-caching=1200
+https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
+
+
+
+
